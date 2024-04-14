@@ -17,13 +17,3 @@ The following packages were used:
 - icecream
 - jupyter (for the notebooks)
 ```
-
-## TODO
-- [x] Add notebooks
-- [x] Add trained model checkpoints
-- [x] Add README instructions
-  - [x] Dataset Download
-  - [x] Environment setup
-- [x] Change notebooks to use input for data
-- [ ] Refactor notebook content into python scripts
-- [ ] Add licenses
