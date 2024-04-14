@@ -24,5 +24,6 @@ The following packages were used:
 - [x] Add README instructions
   - [x] Dataset Download
   - [x] Environment setup
-- [ ] Change notebooks to use input for data
+- [x] Change notebooks to use input for data
 - [ ] Refactor notebook content into python scripts
+- [ ] Add licenses
