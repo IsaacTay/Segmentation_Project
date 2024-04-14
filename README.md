@@ -20,3 +20,11 @@ The following packages were used:
 
 ## Checkpoints
 Additional checkpoints too large for this repository can be found in: https://drive.google.com/drive/folders/1xmHW979pR3a5vmzKegH904Yle15j1a0G?usp=sharing
+
+## Running the models
+Each model is located in the notebooks:
+- `Final_Model_2000epochs.ipynb`: Our model
+- `UNet_SOTA.ipynb`: UNET model
+- `UNetPlusPlus.ipynb`: UNET++ model
+
+Each notebook is self contained, and will train & output the metric graphs for each model.
